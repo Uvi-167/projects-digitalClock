@@ -18,7 +18,13 @@ body{
     height:40px;
     text-align: center;
     font-weight: bold;
-       
+}
+
+footer{
+    position: absolute;
+    top: 95%;
+    left : 50%;
+   color:rgb(59, 152, 152);
 }
 
 
