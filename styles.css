@@ -1,5 +1,6 @@
 body{
     background-color: rgb(61, 57, 57);
+    font-weight: 1.5em;
 }
 
 #container{
@@ -18,13 +19,14 @@ body{
     height:40px;
     text-align: center;
     font-weight: bold;
+       
 }
-
 footer{
     position: absolute;
     top: 95%;
     left : 50%;
    color:rgb(59, 152, 152);
+   font-weight: 2em;
 }
 
 
