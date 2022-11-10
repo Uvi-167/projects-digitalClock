@@ -1,4 +1,4 @@
-# projects-digitalClock.github.io
+# projects-digitalClock
 Simple digital clock 🕒
 
 visit this website to view the projet 
